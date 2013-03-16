@@ -3,3 +3,23 @@
 #3, (same as above): In pdf, page 59: It says it's cut from part #99, but what is meant is part #9.
 #4, suggestions for the BOM: that under each part, it says what it is used for (of diff. parts/items).
 
+GRATE
+- the 33 flatbar cuts in fab pdf drawings are off. says 25 should be 26.5 inches
+
+HOPPER
+- drill press holes are not possible to interpret in the fab drawing pdf
+
+
+//////////////////
+
+HOW TO CROSSCHECK DOC
+- ceck fab pdf drawings, keep in mind from prototype 3
+- check if specific page for the part, ie hopper
+- check collab production run 4, any links?
+### remember to check version history of wiki pages and drawings
+- check cad
+
+
+
+IDEAS
+- plywood instead of metal for grate and hopper?
